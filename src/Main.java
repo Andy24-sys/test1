@@ -6,6 +6,7 @@ import java.util.HashSet;
             Solution solution = new Solution();
             System.out.println(solution.containsDuplicate(new int[]{1, 2, 3, 1})); // Output: true
             System.out.println(solution.containsDuplicate(new int[]{1, 2, 3, 4})); // Output: false
+            System.out.println("Все ок!");
         }
     }
 
